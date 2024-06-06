@@ -14,3 +14,7 @@ Fundamentals of Javascript Learned -
 </ul>
 
 Deployed at https://pig-game-tamfatim.netlify.app
+
+Snapshot - 
+![image](https://github.com/tamseelfatima20/Pig-game/assets/146311522/23d90ddf-e2e9-4b10-be1d-b5af2e56024f)
+
